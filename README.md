@@ -8,7 +8,7 @@ Setup the environment with the following command
 ```
 
 ## Run Server
-First, source the virtual environment
+First, source the virtual environment (it is not required if you ran the `setup.sh`)
 ```bash
 source ./venv/bin/activate
 ```
