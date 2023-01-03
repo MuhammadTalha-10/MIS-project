@@ -1,0 +1,9 @@
+body{
+    background-image:linear-gradient(to right, aqua, blue);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: white;
+    line-height: 1.5;
+    margin: 27%;
+    padding: 0;
+}

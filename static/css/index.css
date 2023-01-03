@@ -1,0 +1,33 @@
+a :hover{
+    color: slategrey;
+    text-decoration: none;
+
+}
+.nav{
+    display: inline-block; 
+    background-image:linear-gradient(to right, aqua, blue); 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: larger; 
+    font-weight: 400; 
+    height: 50px;
+    width: 100%;
+    padding-top: 14px;
+    font-size: larger;
+}
+a{
+    display: inline-flex; 
+    font-size: small; 
+    color: black; 
+    align-items: center; 
+    font-size: larger; 
+    padding-right: 1cm; 
+    padding-left: 12px;
+    cursor: pointer;
+}
+h1{
+    display: flex;  
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: justify; 
+    margin-left: 10em; 
+    color: black;
+}
